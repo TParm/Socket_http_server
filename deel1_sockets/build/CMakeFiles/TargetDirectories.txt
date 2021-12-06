@@ -1,0 +1,4 @@
+/home/pi/Documents/opdrachten/opdracht3/deel1_sockets/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/opdrachten/opdracht3/deel1_sockets/build/CMakeFiles/edit_cache.dir
+/home/pi/Documents/opdrachten/opdracht3/deel1_sockets/build/CMakeFiles/Client.dir
+/home/pi/Documents/opdrachten/opdracht3/deel1_sockets/build/CMakeFiles/Server.dir
