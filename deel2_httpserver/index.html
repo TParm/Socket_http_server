@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>GPIO control interface</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <h1>Control your GPIO_Pins with this http_website!</h1>
+
+    <div class="jumbotron">
+      <div class="mb-3">
+        <label for="formFile" class="form-label">GPIO pin</label>
+        <input placeholder="E.g 17"  class="form-control" type="text" id="gpio" />
+      </div>
+      <div class="mb-3">
+        <label for="formFileMultiple" class="form-label">Period between toggles</label>
+        <input placeholder="E.g 2" class="form-control" type="text" id="period"/>
+      </div>
+      <div class="mb-3">
+        <label for="formFileDisabled" class="form-label">Number of toggles</label>
+        <input placeholder="E.g 10"  class="form-control" type="text" id="toggle"/>
+      </div>
+    </div>
+
+    <button type="button" class="btn btn-success">Send</button>
+
+  </body>
+</html>

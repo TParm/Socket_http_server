@@ -1,0 +1,4 @@
+/home/pi/Documents/opdrachten/opdracht3/deel2_httpserver/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/opdrachten/opdracht3/deel2_httpserver/build/CMakeFiles/Client.dir
+/home/pi/Documents/opdrachten/opdracht3/deel2_httpserver/build/CMakeFiles/edit_cache.dir
+/home/pi/Documents/opdrachten/opdracht3/deel2_httpserver/build/CMakeFiles/http.dir
